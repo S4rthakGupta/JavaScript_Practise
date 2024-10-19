@@ -26,6 +26,7 @@ function getData(dataID) // Let's suppose it will take 2 seconds to get the data
 }
 
 getData(123)
+console.log("Hello!");
 
 
 
